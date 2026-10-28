@@ -12,6 +12,7 @@ def calculate_fee(amount):
     return amount + 40
 
 
+
 def main():
     x = int(input("Enter the value of the first number: "))
     y = int(input("Enter the value of the second number: "))
